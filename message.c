@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("F*CK COMMONJS");
+    printf("WHY DOES COMMONJS EVEN EXIST?!?!");
     return 0;
 }
